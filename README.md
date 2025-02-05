@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/priyanshu_sami" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu_sami?logo=twitter&style=for-the-badge" alt="priyanshu_sami" /></a> </p>
 
-- 🔭 I’m currently working on **Coding Nexus**
+- 🔭 I’m currently looking For a Job Oppurtunity
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **ApexByte**
+- 👯 I’m a Member of KLANN And 17.Codes Community
 
 - 💬 Ask me about **Queries**
 
 - 📫 How to reach me **priyanshushami7830@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Helping my Collegues**
+- ⚡ Fun fact **My Starting of Coding journey Guide Freshers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
